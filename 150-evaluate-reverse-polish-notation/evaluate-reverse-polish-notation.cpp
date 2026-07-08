@@ -22,7 +22,6 @@ public:
                 st.push(stoi(token));
             }
         }
-
         return st.top();
     }
 };
